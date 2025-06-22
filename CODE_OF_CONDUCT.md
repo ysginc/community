@@ -37,7 +37,7 @@ This Code of Conduct applies within all community spaces managed by YSG—includ
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the YSG Community Team at:
 
-📧 **community@ysginc.com**
+📧 **community@ysginc.io** (Not Yet Available)
 
 All reports will be reviewed and investigated promptly and fairly. Your privacy will be respected and your report will be handled with discretion.
 
